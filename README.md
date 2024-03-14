@@ -38,7 +38,7 @@
 <br>
 <br>
 
-<button><a href="http://speedbaek.dothome.co.kr/pallelax/index.html" class="btn btn-primary" > pallelax </button>
+<button><a href="http://speedbaek.dothome.co.kr/pallelax/index.html" class="btn btn-primary" > pallelax </button> <br /><br />
 <button><a href="http://speedbaek.dothome.co.kr/Cartier/index.html" class="btn btn-primary" > Cartier </button>
 
 <br /><br />
