@@ -38,7 +38,7 @@
 <br>
 <br>
 
-<button><a href="https://speedbaek.dothome.co.kr" class="btn btn-primary" >MOVE </button>
+<button><a href="http://speedbaek.dothome.co.kr/pallelax/index.html" class="btn btn-primary" >MOVE </button>
 
 <br /><br />
 
