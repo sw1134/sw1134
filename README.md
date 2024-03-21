@@ -54,8 +54,10 @@
 <br />
 
 ### hey there 
-<a href="https://www.instagram.com/abhisheknaiidu/">
+<a href="https://www.instagram.com/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-[카카오](https://pf.kakao.com/_xjxfds/chat)
+<a href="https://pf.kakao.com/">
+  <img align="left" alt="kakao" width="22px"  src="" />
+</a>
 
