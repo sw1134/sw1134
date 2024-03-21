@@ -58,6 +58,6 @@
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://pf.kakao.com/">
-  <img align="left" alt="kakao" width="22px"  src="[https://github.com/sw1134/sw1134/kakao.png](https://github.com/sw1134/sw1134/blob/main/kakao.png?raw=true)https://github.com/sw1134/sw1134/blob/main/kakao.png?raw=true" />
+  <img align="left" alt="kakao" width="22px"  src="https://github.com/sw1134/sw1134/blob/main/kakao.png?raw=true" />
 </a>
 
