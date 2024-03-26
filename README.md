@@ -1,20 +1,21 @@
 <h1 align="center">Hi, I'm Baek Seung Woo</h1>
 <h3 align="center">
-  Front-End & Back-End 개발자 백승우 입니다.
+  Hi ~~  I am Front-End & Back-End Developer Seung Woo Baek.
 </h3>
 <br /><br />
 <p>
-  주로 사용하는 언어는 `Java `입니다. <br>
-  이외에도` HTML, CSS, JavaScript ` 대한 사용경험이 있습니다.<br>   
-  `Spring-FrameWork `로 게시판 가능하고 리액트 사용경험 있습니다. <br>                  
-  현재 이젠 컴퓨터 아카데미 개발자 6개월과정이고 ,  프로젝트 시스템 개발을 진행하고 있습니다.<br>
-  유지 보수하기 좋은 코드, 확장성 있는 서버 설계가 가능한 개발자로 성장하고 싶습니다.
+ The main language I use is Java.<br>
+In addition, I have experience using HTML, CSS, and JavaScript.<br>
+Spring-FrameWork enables bulletin boards and has experience using react.<br>
+We are currently in the process of developing a computer academy for six months, and we are developing a project system.<br>
+I want to grow into a developer who can design a code that is good for maintenance and expandable servers.
+  <br>
 </p>
 <p>
-  6개월 코스 강의를 수료했습니다.
+  I have completed a six-month course lecture.
 </p>
   
-어렵지만 포기하지 않았습니다.
+It's hard, but I didn't give up.
 <br>
 
 **My tech stack :**  
