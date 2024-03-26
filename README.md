@@ -18,10 +18,12 @@
 <br>
 
 **My tech stack :**  
+```
 - Backend web development (Java, Servlet/JSP)
 - Frontend web development (HTML, CSS, javaScript, jQuery, React.js)
-- Oracle, MySQL
+- Oracle
 - Portfolio
+```
 <br>
 
 
